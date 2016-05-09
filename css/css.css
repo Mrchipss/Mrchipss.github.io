@@ -1,0 +1,41 @@
+.mitten{
+    width:960px;
+    margin:0 auto;
+}
+body{
+    background-color:grey;
+}
+.container{
+    width:960px;
+    margin: 0 auto;
+}
+img{
+    width: 960px;
+    height: 400px;
+}
+section{
+    background-color: red;
+    height: 500px;
+}
+aside{
+    width: 200px;
+    height: 470px;
+    float: right;
+    background-color: red;
+    margin:10px;
+    border: inset black 5px;
+}
+footer{
+    background-color: green;
+    height: 200px;
+}
+ul li{
+    display: inline;
+    color: black;
+    margin:10px;
+    font-size: 25px;
+}
+ul{
+    background-color: white;
+    margin-bottom: 0px;
+}
