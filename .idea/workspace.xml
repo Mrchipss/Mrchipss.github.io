@@ -3,7 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="45d7f1f3-e188-44d9-8f72-7f6a3b2794b0" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index.html" afterPath="$PROJECT_DIR$/index.html" />
     </list>
     <ignored path="Sidan.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -289,7 +288,13 @@
       <option name="project" value="LOCAL" />
       <updated>1462867747261</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Push from WS2">
+      <created>1462867805604</created>
+      <option name="number" value="00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1462867805604</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -347,7 +352,8 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="First Push" />
     <MESSAGE value="Push from WS" />
-    <option name="LAST_COMMIT_MESSAGE" value="Push from WS" />
+    <MESSAGE value="Push from WS2" />
+    <option name="LAST_COMMIT_MESSAGE" value="Push from WS2" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
