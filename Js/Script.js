@@ -4,6 +4,7 @@ jQuery(document).ready(function($) {
             autoplay:true,
             arrows:false,
             delay:5000,
+            infinite:true,
         }
     );
 });

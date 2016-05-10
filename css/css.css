@@ -17,6 +17,12 @@ section{
     background-color: red;
     height: 500px;
 }
+section img{
+    height: 200px;
+    width: 350px;
+    margin: 20px;
+    border-radius: 10px;
+}
 aside{
     width: 200px;
     height: 470px;
@@ -24,6 +30,11 @@ aside{
     background-color: red;
     margin:10px;
     border: inset black 5px;
+}
+nav ul{
+    background-color: white;
+    border-top-left-radius: 5px;
+    border-top-right-radius: 5px;
 }
 footer{
     background-color: green;
@@ -36,9 +47,12 @@ ul li{
     font-size: 25px;
 }
 ul{
-    background-color: white;
     margin-bottom: 0px;
 }
 ul li a{
     text-decoration: none;
+    color:black;
+}
+li a:hover{
+    color:red;
 }
