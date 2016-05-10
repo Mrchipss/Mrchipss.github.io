@@ -14,7 +14,7 @@ img{
     height: 400px;
 }
 section{
-    background-color: red;
+    background-color: #273370;
     height: 500px;
 }
 section img{
@@ -22,14 +22,27 @@ section img{
     width: 350px;
     margin: 20px;
     border-radius: 10px;
+    float: left;
+}
+aside img{
+    width: 190px;
+    margin: 5px;
+}
+.hej{
+    width: 200px;
+    float: left;
+}
+section h2, p{
+    float: left;
+    margin: 20px;
 }
 aside{
     width: 200px;
     height: 470px;
     float: right;
-    background-color: red;
     margin:10px;
     border: inset black 5px;
+    float: right;
 }
 nav ul{
     background-color: white;
@@ -37,7 +50,7 @@ nav ul{
     border-top-right-radius: 5px;
 }
 footer{
-    background-color: green;
+    background-color: yellow;
     height: 200px;
 }
 ul li{
