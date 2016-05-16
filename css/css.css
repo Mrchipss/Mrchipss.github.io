@@ -14,8 +14,8 @@ img{
     height: 400px;
 }
 section{
-    background-color: #273370;
-    height: 500px;
+    background-color: white;
+    height: 700px;
 }
 section img{
     height: 200px;
@@ -45,13 +45,16 @@ aside{
     float: right;
 }
 nav ul{
-    background-color: white;
+    background-color: blue;
     border-top-left-radius: 5px;
     border-top-right-radius: 5px;
 }
 footer{
     background-color: yellow;
     height: 200px;
+}
+header p{
+    float: right;
 }
 ul li{
     display: inline;
@@ -69,3 +72,18 @@ ul li a{
 li a:hover{
     color:red;
 }
+article{
+    height: 230px;
+}
+.article1 img{
+    float: left;
+}
+.article2 img{
+    float: right;
+}
+.text{
+    float: left;
+    width: 550px;
+}
+
+
