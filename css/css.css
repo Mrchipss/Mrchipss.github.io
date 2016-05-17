@@ -14,8 +14,11 @@ img{
     height: 400px;
 }
 section{
-    background-color: white;
-    height: 700px;
+    background-color: #56AAFF;
+    height: 950px;
+    box-shadow: 6px 6px 5px black;
+    border-bottom-left-radius: 5px;
+    border-bottom-right-radius: 5px;
 }
 section img{
     height: 200px;
@@ -45,16 +48,23 @@ aside{
     float: right;
 }
 nav ul{
-    background-color: blue;
+    background-color: black;
+    border-top-left-radius: 5px;
+    border-top-right-radius: 5px;
+    box-shadow: 6px 6px 5px black;
+}
+footer{
+    background-image: url(../Gras.JPG);
+    height: 200px;
+    box-shadow: 6px 6px 5px black;
     border-top-left-radius: 5px;
     border-top-right-radius: 5px;
 }
-footer{
-    background-color: yellow;
-    height: 200px;
-}
 header p{
     float: right;
+}
+.mitten p{
+    color: #56AAFF;
 }
 ul li{
     display: inline;
@@ -67,7 +77,7 @@ ul{
 }
 ul li a{
     text-decoration: none;
-    color:black;
+    color: #56AAFF;
 }
 li a:hover{
     color:red;

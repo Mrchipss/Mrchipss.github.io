@@ -1,0 +1,27 @@
+form{
+    margin: 10px auto;
+    width: 400px;
+    padding: 1em;
+    border: 2px solid black;
+    border-radius: 1em;
+
+}
+form div + div{
+    margin-top: 1em;
+}
+label{
+    display: inline-block;
+    width: 90px;
+    text-align: right;
+}
+.button{
+    text-align: center;
+}
+input{
+    border-radius: 5px;
+    box-shadow: 6px 6px 5px blue;
+}
+textarea{
+    box-shadow: 6px 6px 5px Blue;
+    resize: none;
+}
