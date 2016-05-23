@@ -14,7 +14,7 @@ img{
     height: 400px;
 }
 section{
-    background-color: #56AAFF;
+    background-color: #000E70;
     height: 950px;
     box-shadow: 6px 6px 5px black;
     border-bottom-left-radius: 5px;
@@ -53,13 +53,6 @@ nav ul{
     border-top-right-radius: 5px;
     box-shadow: 6px 6px 5px black;
 }
-footer{
-    background-image: url(../Gras.JPG);
-    height: 200px;
-    box-shadow: 6px 6px 5px black;
-    border-top-left-radius: 5px;
-    border-top-right-radius: 5px;
-}
 header p{
     float: right;
 }
@@ -79,9 +72,6 @@ ul li a{
     text-decoration: none;
     color: #56AAFF;
 }
-li a:hover{
-    color:red;
-}
 article{
     height: 230px;
 }
@@ -95,5 +85,18 @@ article{
     float: left;
     width: 550px;
 }
+footer{
+    background-image: url(../Gras960x200.JPG);
+    height: 200px;
+    box-shadow: 6px 6px 5px black;
+    border-top-left-radius: 5px;
+    border-top-right-radius: 5px;
+}
 
+.ful{
+    width: 10px;
+    height: 10px;
+    cursor: default;
+    float: left;
+}
 
