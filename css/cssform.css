@@ -1,5 +1,5 @@
 form{
-    margin: 10px auto;
+    margin: 0 auto;
     width: 400px;
     padding: 1em;
     border: 2px solid black;
@@ -36,11 +36,13 @@ textarea{
 table,td {
     border-collapse: collapse;
     border-style: solid;
-    color: #00bb00;
-    font-size: 60px;
+    color: black;
+    font-size: 50px;
     margin: 0 auto;
-    margin-top: 10px;
 }
 td{
     padding: 10px;
+}
+td a{
+    text-decoration: none;
 }

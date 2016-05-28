@@ -1,5 +1,5 @@
 $(document).ready(function() {
-    $("#navList li").fadeTo("fast", 0)
+    $("#navList li").fadeTo("fast", 0.5)
 
 
     $("#navList li").mouseenter(function(){
@@ -8,7 +8,7 @@ $(document).ready(function() {
     });
 
     $("#navList li").mouseleave(function(){
-        $(this).fadeTo("slow", 0)
+        $(this).fadeTo("slow", 0.5)
 
     });
 

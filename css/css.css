@@ -3,7 +3,7 @@
     margin:0 auto;
 }
 body{
-    background-color:grey;
+    background-image: url(../metal.jpg);
 }
 .container{
     width:960px;
@@ -14,7 +14,8 @@ img{
     height: 400px;
 }
 section{
-    background-color: #000E70;
+
+    background-image: url(../Gras.JPG);
     height: 950px;
     box-shadow: 6px 6px 5px black;
     border-bottom-left-radius: 5px;
@@ -86,7 +87,7 @@ article{
     width: 550px;
 }
 footer{
-    background-image: url(../Gras960x200.JPG);
+    background-image: url(../grå.jpg);
     height: 200px;
     box-shadow: 6px 6px 5px black;
     border-top-left-radius: 5px;
