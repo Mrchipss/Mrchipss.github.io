@@ -22,10 +22,10 @@ label{
 }
 input{
     border-radius: 5px;
-    box-shadow: 6px 6px 5px #000E70;
+    box-shadow: 6px 6px 5px black;
 }
 textarea{
-    box-shadow: 6px 6px 5px #000E70;
+    box-shadow: 6px 6px 5px black;
     resize: none;
     border-radius: 5px;
     margin-top: 30px;
